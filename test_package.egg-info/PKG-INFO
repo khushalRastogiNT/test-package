@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: test-package
+Version: 0.0.1
+Summary: A sample test package
+Home-page: https://github.com/khushalRastogiNT/test-package
+Author: khushal rastogi
+Author-email: khushalrustagi@gmail.com
+License: MIT
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Tesing Package creation.
+> Containing a count_in_list function to count the occurances of a word in a list.
